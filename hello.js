@@ -1,1 +1,1 @@
-console.log("Greetings fellow Bitches");
+console.log("Let's be kind");
