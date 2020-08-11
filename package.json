@@ -1,0 +1,21 @@
+{
+  "name": "jenkins",
+  "version": "1.0.0",
+  "description": "test automation",
+  "scripts": {
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmd2011/hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmd2011/hello-world/issues"
+  },
+  "homepage": "https://github.com/nmd2011/hello-world#readme",
+  "dependencies": {
+    "cypress": "^4.12.1"
+  }
+}
