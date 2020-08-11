@@ -1,1 +1,1 @@
-console.log("Let's be kind");
+console.log("Can I get a what whats");
